@@ -154,5 +154,11 @@ html,body{
     Color: yellow;
     font-size: 25px;
 }
-
+.video-fluid {
+    width: 70%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }  
 
